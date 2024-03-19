@@ -1,6 +1,1 @@
-# IoT Project
-
-IOT 기기를 원격으로 관리하는 파충류 관련 커뮤니티 서비스
-
-- Iot 프로젝트의 WAS 입니다.
-- 이 Repository는 Node.js + Typescript + Nest.js 로 이루어져 있습니다.
+인턴경험을 바탕으로 실무에서 사용한 TypeScript, NestJS, typeORM 으로 초기설정부터 배포까지 직접 구축해보기 위한 프로젝트
